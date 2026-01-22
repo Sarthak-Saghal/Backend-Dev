@@ -1,1 +1,0 @@
-Name: Laptop, Price: 500000, Discount: 20%, Final: 400000
